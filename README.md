@@ -3,12 +3,6 @@
 <p align="center">
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8d2h98jq3spu8fkca74dyarxm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8d2h98jq3spu8fkca74dyarxm&cover_image=true&theme=novatorem&show_offline=false&background_color=c65d95&interchange=true&profanity=false&hide_remaster=false&bar_color=fda0e9&bar_color_cover=true">
-  </a>
-</p>
-
-<p align="center">
 ${\textsf{\color{#eb8bc1}I am arcee! I also go by other names, but you can refer to me however you'd like, nicknames included!}}$ 
 ${\textsf{\color{#eb8bc1}I am a very outgoing person, but I also tend to get shy easily too! Do not take it personally!}}$
 ${\textsf{\color{#eb8bc1}I am autistic, mexican italian, and I am a cis female! PLEASE only use feminine pronouns on me! she/her, femmebot, etc!}}$
@@ -34,3 +28,10 @@ ${\textsf{\color{#ed83c5}my IDs}}$
 
 <p align="center">
   <img src="https://64.media.tumblr.com/7f473effe2deb27c07eba141e7314e18/4715acd599264b06-61/s2048x3072/248058910b07d66bb3cac4264f2f93bc4ca5142b.pnj?raw=true" width="600"> <br>
+
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8d2h98jq3spu8fkca74dyarxm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8d2h98jq3spu8fkca74dyarxm&cover_image=true&theme=novatorem&show_offline=false&background_color=c65d95&interchange=true&profanity=false&hide_remaster=false&bar_color=fda0e9&bar_color_cover=true">
+  </a>
+</p>
