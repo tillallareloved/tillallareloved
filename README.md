@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://64.media.tumblr.com/319f3fb04af2a3aa2fec73382a986063/fee767e9e9624a60-26/s1280x1920/6f842a54d378a30ef59a679b577d5cd5531dad53.pnj?raw=true" width="600"> <br>
 <p align="center">
-${\textsf{\color{#fcc9e9}꒰ ♡ཀ ꒱}}$ 
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8d2h98jq3spu8fkca74dyarxm&redirect=true">
