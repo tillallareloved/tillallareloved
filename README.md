@@ -24,7 +24,7 @@ ${\textsf{\color{#eb8bc1}psst.. I am THE arcee and christine daae...}}$
 <p align="center">
    
 <p align="center">
-<img src="https://64.media.tumblr.com/0549c3a1a9c2a0abab1951bc729956a2/fee767e9e9624a60-f9/s2048x3072/d6fc4d9eb80303189c94d188138db428de561bfb.pnj?raw=true" width="400"> <br>
+<img src="https://64.media.tumblr.com/0549c3a1a9c2a0abab1951bc729956a2/fee767e9e9624a60-f9/s2048x3072/d6fc4d9eb80303189c94d188138db428de561bfb.pnj?raw=true" width="500"> <br>
  
 <p align="center">
 <img src="https://64.media.tumblr.com/319f3fb04af2a3aa2fec73382a986063/fee767e9e9624a60-26/s1280x1920/6f842a54d378a30ef59a679b577d5cd5531dad53.pnj?raw=true" width="600"> <br>
