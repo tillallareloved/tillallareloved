@@ -27,7 +27,7 @@ ${\textsf{\color{#eb8bc1}psst.. I am THE arcee and christine daae...}}$
 ${\textsf{\color{#ed83c5}my IDs}}$
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/7f473effe2deb27c07eba141e7314e18/4715acd599264b06-61/s2048x3072/248058910b07d66bb3cac4264f2f93bc4ca5142b.pnj?raw=true" width="600"> <br>
+  <img src="https://64.media.tumblr.com/a819e6aacc926f29f898466e338c5184/90c799c76d41dac1-bc/s2048x3072/813e83664fc09595bb7872f4e96b412389557043.pnj?raw=true" width="600"> <br>
 
 
 <p align="center">
