@@ -12,8 +12,8 @@ ${\textsf{\color{#eb8bc1}C*H is ALWAYS encouraged! No matter if it's in my name 
 ${\textsf{\color{#eb8bc1}psst.. I am THE arcee and christine daae...}}$
   
 <p align="center">
-  <a href="https://github.com/daaechristine">
-     <img src="https://komarev.com/ghpvc/?username=DaaeChristine-username&color=f88cc8&label=♡"> 
+  <a href="https://github.com/tillallareloved">
+     <img src="https://komarev.com/ghpvc/?username=tillallareloved-username&color=f88cc8&label=♡"> 
 <p align="center">
    
 <p align="center">
