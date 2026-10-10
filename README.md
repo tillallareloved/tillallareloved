@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
 <img src="https://64.media.tumblr.com/319f3fb04af2a3aa2fec73382a986063/fee767e9e9624a60-26/s1280x1920/6f842a54d378a30ef59a679b577d5cd5531dad53.pnj?raw=true" width="500"> <br>
 <p align="center">
@@ -12,9 +14,8 @@ ${\textsf{\color{#eb8bc1}C*H is ALWAYS encouraged! No matter if it's in my name 
 ${\textsf{\color{#eb8bc1}psst.. I am THE arcee and christine daae...}}$
 
 <p align="center">
-<br><br>
-   
-![Static Badge](https://img.shields.io/badge/love-autobot?style=flat&logo=%E2%99%A1&logoColor=white&label=auto&color=%23f78ac6)
+
+   ![Static Badge](https://img.shields.io/badge/love-autobot?style=flat&logo=%E2%99%A1&logoColor=white&label=auto&color=%23f78ac6)
 
 <p align="center">
    
