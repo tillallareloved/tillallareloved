@@ -10,10 +10,9 @@ ${\textsf{\color{#eb8bc1}I am mainly with my friends, but I can be seen alone to
 ${\textsf{\color{#eb8bc1}I get distracted VERY easily, whispering me is a great way to int with me for any case! I LOVE talking to others!}}$
 ${\textsf{\color{#eb8bc1}C*H is ALWAYS encouraged! No matter if it's in my name or not, feel free to cuddle with me whenever! I HAVE CUDCOMF!}}$  
 ${\textsf{\color{#eb8bc1}psst.. I am THE arcee and christine daae...}}$
-  
+
 <p align="center">
-  <a href="https://github.com/tillallareloved">
-     <img src="https://komarev.com/ghpvc/?username=tillallareloved-username&color=f88cc8&label=♡"> 
+![Static Badge](https://img.shields.io/badge/love-autobot?style=flat&logo=%E2%99%A1&logoColor=white&label=auto&color=%23f78ac6)
 <p align="center">
    
 <p align="center">
