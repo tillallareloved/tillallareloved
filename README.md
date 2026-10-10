@@ -12,7 +12,9 @@ ${\textsf{\color{#eb8bc1}C*H is ALWAYS encouraged! No matter if it's in my name 
 ${\textsf{\color{#eb8bc1}psst.. I am THE arcee and christine daae...}}$
 
 <p align="center">
+
 ![Static Badge](https://img.shields.io/badge/love-autobot?style=flat&logo=%E2%99%A1&logoColor=white&label=auto&color=%23f78ac6)
+
 <p align="center">
    
 <p align="center">
