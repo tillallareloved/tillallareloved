@@ -1,13 +1,18 @@
 <div align="center">
 
+${\textsf{\color{#eb8bc1}Thank you for the nominations!~}}$ 
+
+@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony
+
 <p align="center">
 <img src="https://64.media.tumblr.com/319f3fb04af2a3aa2fec73382a986063/fee767e9e9624a60-26/s1280x1920/6f842a54d378a30ef59a679b577d5cd5531dad53.pnj?raw=true" width="500"> <br>
 <p align="center">
 
 <p align="center">
-${\textsf{\color{#eb8bc1}I am arcee! I also go by other names, but you can refer to me however you'd like, nicknames included!}}$ 
+${\textsf{\color{#eb8bc1}I am christine! I also go by other names, but you can refer to me however you'd like, nicknames included!}}$ 
 ${\textsf{\color{#eb8bc1}I am a very outgoing person, but I also tend to get shy easily too! Do not take it personally!}}$
-${\textsf{\color{#eb8bc1}I am autistic, mexican italian, and I am a cis female! PLEASE only use feminine pronouns on me! she/her, femmebot, etc!}}$
+${\textsf{\color{#eb8bc1}I am autistic, mexican italian, and I am a cis female! PLEASE only use feminine pronouns on me!}}$
+${\textsf{\color{#eb8bc1}I am very energetic, I talk with a lot of energy! I also have typing quirks/type a certain way :-).}}$
 ${\textsf{\color{#eb8bc1}I am mainly with my friends, but I can be seen alone too! Feel free to int with me no matter what!}}$
 ${\textsf{\color{#eb8bc1}I get distracted VERY easily, whispering me is a great way to int with me for any case! I LOVE talking to others!}}$
 ${\textsf{\color{#eb8bc1}C*H is ALWAYS encouraged! No matter if it's in my name or not, feel free to cuddle with me whenever! I HAVE CUDCOMF!}}$  
