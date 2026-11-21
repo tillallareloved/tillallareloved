@@ -20,7 +20,7 @@ ${\textsf{\color{#eb8bc1}psst.. I am THE arcee and christine daae...}}$
 <p align="center">
    
 <p align="center">
-<img src="https://64.media.tumblr.com/e998483767ce986b5613309e64145365/857d9029ba5a0134-b1/s2048x3072/dfcf5a0669fbaf7db5fcbc210127753d2f3f5c1e.pnj?raw=true" width="500"> <br>
+<img src="https://64.media.tumblr.com/b16743aeb0f3ceb7991008c69203cb40/44eead60c92f09d9-a0/s1280x1920/6b6014bb437430cfe2cec663f20e09149c9c87ff.pnj?raw=true" width="500"> <br>
  
 <p align="center">
 <img src="https://64.media.tumblr.com/319f3fb04af2a3aa2fec73382a986063/fee767e9e9624a60-26/s1280x1920/6f842a54d378a30ef59a679b577d5cd5531dad53.pnj?raw=true" width="500"> <br>
