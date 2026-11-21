@@ -1,6 +1,7 @@
 <div align="center">
 
 ${\textsf{\color{#eb8bc1}Thank you for the nominations!~}}$ 
+
 ${\textsf{\color{#eb8bc1}@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony}}$ 
 
 <p align="center">
