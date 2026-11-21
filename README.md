@@ -1,8 +1,7 @@
 <div align="center">
 
 ${\textsf{\color{#eb8bc1}Thank you for the nominations!~}}$ 
-
-@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony
+${\textsf{\color{#eb8bc1}@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony}}$ 
 
 <p align="center">
 <img src="https://64.media.tumblr.com/319f3fb04af2a3aa2fec73382a986063/fee767e9e9624a60-26/s1280x1920/6f842a54d378a30ef59a679b577d5cd5531dad53.pnj?raw=true" width="500"> <br>
