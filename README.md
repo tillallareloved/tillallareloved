@@ -1,7 +1,9 @@
 <div align="center">
 
 
+${\textsf{\color{#eb8bc1}Sign My Socials!}}$ 
 
+[新buk](https://musicofthenight.atabook.org/) [strawpage](https://sweetdecoden.straw.page/)
  
 
 <p align="center">
