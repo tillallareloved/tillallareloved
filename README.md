@@ -37,7 +37,7 @@ ${\textsf{\color{#ed83c5}my IDs}}$
 <p align="center">
   <img src="https://64.media.tumblr.com/07bc295f28a27eb829a0b841ff3391e5/39ec95dbc6e311f6-41/s1280x1920/29e0b269835150caaaa74ba922a03a31f522739a.pnj?raw=true" width="600"> <br>
 
-[${\textsf{\color{#eb8bc1}Thank you for the nominations!}}$ 
+${\textsf{\color{#eb8bc1}Thank you for the nominations!}}$ 
 
 ${\textsf{\color{#eb8bc1}@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony}}$ 
 
