@@ -1,8 +1,6 @@
 <div align="center">
 
-[${\textsf{\color{#eb8bc1}Sign My Socials!}}$ 
 
-[新buk](https://musicofthenight.atabook.org/) [strawpage]([https://musicofthenight.atabook.org/)
 
 src="https://github.com/user-attachments/assets/a5ae0c2d-9fe2-422d-9713-4ca10bccf7dd" 
 
