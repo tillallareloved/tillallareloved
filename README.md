@@ -1,8 +1,10 @@
 <div align="center">
 
-${\textsf{\color{#eb8bc1}Thank you for the nominations!~}}$ 
+[${\textsf{\color{#eb8bc1}Sign My Socials!}}$ 
 
-${\textsf{\color{#eb8bc1}@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony}}$ 
+[新buk](https://musicofthenight.atabook.org/) [strawpage]([https://musicofthenight.atabook.org/)
+
+src="https://github.com/user-attachments/assets/a5ae0c2d-9fe2-422d-9713-4ca10bccf7dd" 
 
 <p align="center">
 <img src="https://64.media.tumblr.com/319f3fb04af2a3aa2fec73382a986063/fee767e9e9624a60-26/s1280x1920/6f842a54d378a30ef59a679b577d5cd5531dad53.pnj?raw=true" width="500"> <br>
@@ -36,6 +38,10 @@ ${\textsf{\color{#ed83c5}my IDs}}$
 
 <p align="center">
   <img src="https://64.media.tumblr.com/07bc295f28a27eb829a0b841ff3391e5/39ec95dbc6e311f6-41/s1280x1920/29e0b269835150caaaa74ba922a03a31f522739a.pnj?raw=true" width="600"> <br>
+
+[${\textsf{\color{#eb8bc1}Thank you for the nominations!}}$ 
+
+${\textsf{\color{#eb8bc1}@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony}}$ 
 
 
 <p align="center">
