@@ -42,7 +42,7 @@ ${\textsf{\color{#ed83c5}my IDs}}$
 
 ${\textsf{\color{#eb8bc1}Thank you for the nominations!}}$ 
 
-${\textsf{\color{#eb8bc1}@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony @marvelous-pt}}$ 
+${\textsf{\color{#eb8bc1}@pt-hall-of-media @pt-nominations @appreciation-pt @Knox-Event @pt-everypony @marvelous-pt @juminotown}}$ 
 
 
 <p align="center">
