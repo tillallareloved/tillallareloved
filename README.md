@@ -4,7 +4,7 @@
 
 ${\textsf{\color{#eb8bc1}Sign My Socials!}}$ 
 
-[新buk](https://musicofthenight.atabook.org/) [strawpage](https://sweetdecoden.straw.page/)
+[新buk](https://musicofthenight.atabook.org/) [strawpage](https://sweetdecoden.straw.page/) [decomytree](https://decomytree.net/t/qv4evn)
  
 
 <p align="center">
